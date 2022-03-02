@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* .stupid div {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+} */
+
+.tower-of-pisa {
+    font-style: italic;
+    background-color: gray;
+    height: 40px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.language {
+    font-size: 35px;
+}
+
+input {
+    height: 20px;
+    width: 300px;
+    margin-top: 7px;
+}
+
+.loginout {
+    border-radius: 5px;
+    height: 25px;
+    width: 55px;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+.container {
+    background-color: white;
+    border-style: solid;
+    height: 175px;
+    width: 460px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 75px;
+}
+
+.definition {
+    padding-top: 15px;
+    padding-left: 25px;
+}
+
+.define {
+    padding-top: 10px;
+    margin-left: 35px;
+}
+
+.CRUD {
+    margin-top: 10px;
+    padding-left: 25px;
+}
+
+.indent {
+    margin-top: 15px;
+    margin-left: 25px;
+    height: 30px;
+    width: 80px;
+    background-color: darkorange;
+}
+
+.description {
+    margin: 70px;
+}
+
+.item {
+    width: 110px;
+}
+
+.addition {
+    background-color: red;
+    width: 250px;
+    display: flex;
+
+}
